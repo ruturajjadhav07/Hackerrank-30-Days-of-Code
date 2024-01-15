@@ -10,3 +10,11 @@
 *[Day 4: Class vs. Instance](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%204%3A%20Class%20vs.%20Instance)*
 
 *[Day 5: Loops](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%205%3A%20Loops)*
+
+*[Day 6: Let's Review](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%206%3A%20Let's%20Review)*
+
+*[Day 7: Arrays](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%207%3A%20Arrays)*
+
+*[Day 8: Dictionaries and Maps](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%208%3A%20Dictionaries%20and%20Maps)*
+
+*[Day 9: Recursion 3](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%209%3A%20Recursion%203)*
