@@ -18,3 +18,9 @@
 *[Day 8: Dictionaries and Maps](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%208%3A%20Dictionaries%20and%20Maps)*
 
 *[Day 9: Recursion 3](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%209%3A%20Recursion%203)*
+
+*[Day 10: Binary Numbers](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2010%3A%20Binary%20Numbers)*
+
+*[Day 13: Abstract Classes](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2013%3A%20Abstract%20Classes)*
+
+*[Day 16: Exceptions - String to Integer](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2016%3A%20Exceptions%20-%20String%20to%20Integer)*
