@@ -23,6 +23,8 @@
 
 *[Day 11: 2D Arrays](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2011%3A%202D%20Arrays)*
 
+*[Day 12: Inheritance](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2012%3A%20Inheritance)*
+
 *[Day 13: Abstract Classes](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2013%3A%20Abstract%20Classes)*
 
 *[Day 16: Exceptions - String to Integer](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2016%3A%20Exceptions%20-%20String%20to%20Integer)*
