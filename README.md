@@ -27,4 +27,8 @@
 
 *[Day 13: Abstract Classes](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2013%3A%20Abstract%20Classes)*
 
+*[Day 14: Scope](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2014%3A%20Scope)*
+
+*[Day 15: Linked List](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2015%3A%20Linked%20List)*
+
 *[Day 16: Exceptions - String to Integer](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2016%3A%20Exceptions%20-%20String%20to%20Integer)*
