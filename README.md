@@ -32,3 +32,13 @@
 *[Day 15: Linked List](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2015%3A%20Linked%20List)*
 
 *[Day 16: Exceptions - String to Integer](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2016%3A%20Exceptions%20-%20String%20to%20Integer)*
+
+*[Day 17: More Exceptions](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2017%3A%20More%20Exceptions)*
+
+*[Day 18: Queues and Stacks](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2018%3A%20Queues%20and%20Stacks)*
+
+*[Day 19: Interfaces](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2019%3A%20Interfaces)*
+
+*[Day 20: Sorting](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2020%3A%20Sorting)*
+
+*[Day 21: Generics](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2021%3A%20Generics)*
