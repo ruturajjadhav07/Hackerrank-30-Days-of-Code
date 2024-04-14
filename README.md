@@ -42,3 +42,19 @@
 *[Day 20: Sorting](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2020%3A%20Sorting)*
 
 *[Day 21: Generics](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2021%3A%20Generics)*
+
+*[Day 22: Binary Search Trees](https://github.com/ruturajjadhav07/Hackerrank-30-Days-of-Code/tree/main/Day%2022%3A%20Binary%20Search%20Trees)*
+
+*[]()*
+
+*[]()*
+
+*[]()*
+
+*[]()*
+
+*[]()*
+
+*[]()*
+
+*[]()*
